@@ -14,5 +14,7 @@ The pipeline first checks each dataset separately and chromosome-by-chromosome f
 mergePLINKdata.sh {dataSet1} {dataSet2} {outputName}
 {dataSet1} : prefix for the name of 1st set of .bed/.bim/.fam files
 {dataSet2} : prefix for the name of 2nd set of .bed/.bim/.fam files
-{outputName} : prefix for the output files' name
+{outputName} : prefix for the output filesnames
 ```
+
+Example: `mergePLINKdata.sh data1 data2 merged`
