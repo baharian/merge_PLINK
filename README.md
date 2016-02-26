@@ -1,4 +1,3 @@
-# merge_PLINK
 ## Merge two genotype datasets in PLINK format
 
 ### General info
